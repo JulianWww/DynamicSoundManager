@@ -1,0 +1,20 @@
+{
+    "dynamicsoundmanager.gui.title.configs": "Audio Kudeatzaile Pertsonalizatua",
+    "dynamicsoundmanager.gui.title.dynamic-configurer": "Audio Konfigurazioak",
+    "dynamicsoundmanager.gui.title.not-in-game": "Ez zaude joko batean, jokora sartzeko Audio Konfigurazioak egiteko",
+    "dynamicsoundmanager.gui.title.no-sounds": "Soinurik ez.",
+
+    "dynamicsoundmanager.button.home": "Hasiera",
+    "dynamicsoundmanager.button.return": "Itzuli",
+    "dynamicsoundmanager.button.import": "Inportatu",
+    "dynamicsoundmanager.button.import_file": "Inportatu",
+    "dynamicsoundmanager.button.clear-chache": "Katxeak garbitu",
+
+    "dynamicsoundmanager.gui.slider.volume": "Bolumena",
+    "dynamicsoundmanager.gui.slider.pitch":  "Tonua",
+    "dynamicsoundmanager.gui.slider.attenuation": "Atenuazioa",
+    "dynamicsoundmanager.gui.slider.weight": "Erreprodukzio pisua",
+
+    "dynamicsoundmanager.gui.button.upload": "Igo",
+    "dynamicsoundmanager.gui.button.delete": "Ezabatu"
+}

@@ -1,0 +1,20 @@
+{
+    "dynamicsoundmanager.gui.title.configs": "Anpassad ljudhanterare",
+    "dynamicsoundmanager.gui.title.dynamic-configurer": "Ljudinställningar",
+    "dynamicsoundmanager.gui.title.not-in-game": "Du är inte i ett spel, gå med i ett spel för att konfigurera ljudinställningar",
+    "dynamicsoundmanager.gui.title.no-sounds": "Inga ljud tillgängliga.",
+
+    "dynamicsoundmanager.button.home": "Hem",
+    "dynamicsoundmanager.button.return": "Tillbaka",
+    "dynamicsoundmanager.button.import": "Importera",
+    "dynamicsoundmanager.button.import_file": "Importera",
+    "dynamicsoundmanager.button.clear-chache": "Rensa cache",
+
+    "dynamicsoundmanager.gui.slider.volume": "Volym",
+    "dynamicsoundmanager.gui.slider.pitch":  "Tonhöjd",
+    "dynamicsoundmanager.gui.slider.attenuation": "Dämpning",
+    "dynamicsoundmanager.gui.slider.weight": "Spelvikt",
+
+    "dynamicsoundmanager.gui.button.upload": "Ladda upp",
+    "dynamicsoundmanager.gui.button.delete": "Ta bort"
+}

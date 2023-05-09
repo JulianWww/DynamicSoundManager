@@ -1,0 +1,20 @@
+{
+    "dynamicsoundmanager.gui.title.configs": "Propra aŭdokonfigurilo",
+    "dynamicsoundmanager.gui.title.dynamic-configurer": "Aŭda Konfigurado",
+    "dynamicsoundmanager.gui.title.not-in-game": "Vi ne estas en ludo, aliĝu al ludo por agordi aŭdajn agordojn",
+    "dynamicsoundmanager.gui.title.no-sounds": "Neniu sono disponeblas.",
+
+    "dynamicsoundmanager.button.home": "Hejmo",
+    "dynamicsoundmanager.button.return": "Reveni",
+    "dynamicsoundmanager.button.import": "Importi",
+    "dynamicsoundmanager.button.import_file": "Importi",
+    "dynamicsoundmanager.button.clear-chache": "Forigi kaŝmemoron",
+
+    "dynamicsoundmanager.gui.slider.volume": "Volumeno",
+    "dynamicsoundmanager.gui.slider.pitch":  "Tono",
+    "dynamicsoundmanager.gui.slider.attenuation": "Malfortigo",
+    "dynamicsoundmanager.gui.slider.weight": "Ludebleco-pezo",
+
+    "dynamicsoundmanager.gui.button.upload": "Alŝuti",
+    "dynamicsoundmanager.gui.button.delete": "Forigi"
+}

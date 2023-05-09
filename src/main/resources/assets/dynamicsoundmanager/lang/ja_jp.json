@@ -1,0 +1,20 @@
+{
+    "dynamicsoundmanager.gui.title.configs": "カスタムオーディオマネージャー",
+    "dynamicsoundmanager.gui.title.dynamic-configurer": "オーディオ設定",
+    "dynamicsoundmanager.gui.title.not-in-game": "ゲームに参加してオーディオ設定を行ってください",
+    "dynamicsoundmanager.gui.title.no-sounds": "音がありません。",
+
+    "dynamicsoundmanager.button.home": "ホーム",
+    "dynamicsoundmanager.button.return": "戻る",
+    "dynamicsoundmanager.button.import": "インポート",
+    "dynamicsoundmanager.button.import_file": "インポート",
+    "dynamicsoundmanager.button.clear-chache": "キャッシュをクリア",
+
+    "dynamicsoundmanager.gui.slider.volume": "ボリューム",
+    "dynamicsoundmanager.gui.slider.pitch":  "ピッチ",
+    "dynamicsoundmanager.gui.slider.attenuation": "減衰",
+    "dynamicsoundmanager.gui.slider.weight": "再生ウェイト",
+
+    "dynamicsoundmanager.gui.button.upload": "アップロード",
+    "dynamicsoundmanager.gui.button.delete": "削除"
+}
