@@ -1,0 +1,20 @@
+{
+    "dynamicsoundmanager.gui.title.configs": "sitelen musi pi pali ike",
+    "dynamicsoundmanager.gui.title.dynamic-configurer": "sitelen pi lipu musi",
+    "dynamicsoundmanager.gui.title.not-in-game": "sina lon ala lon tenpo pimeja? sina ken ala pana e lipu musi tan ni.",
+    "dynamicsoundmanager.gui.title.no-sounds": "ala musi li lon.",
+
+    "dynamicsoundmanager.button.home": "tomo mama",
+    "dynamicsoundmanager.button.return": "tawa",
+    "dynamicsoundmanager.button.import": "kama jo",
+    "dynamicsoundmanager.button.import_file": "kama jo",
+    "dynamicsoundmanager.button.clear-chache": "pakala pi kulupu",
+
+    "dynamicsoundmanager.gui.slider.volume": "kama",
+    "dynamicsoundmanager.gui.slider.pitch": "utala musi",
+    "dynamicsoundmanager.gui.slider.attenuation": "pakala pi musi",
+    "dynamicsoundmanager.gui.slider.weight": "pona musi",
+
+    "dynamicsoundmanager.gui.button.upload": "kama lon",
+    "dynamicsoundmanager.gui.button.delete": "pini"
+}
